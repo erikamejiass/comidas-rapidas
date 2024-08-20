@@ -18,7 +18,7 @@
 <!--Columna en blanco-->
 <div class="col-sm-1"></div>
 <!--colocamos el titulo de la pagina-->
-<div class="col-sm-4">TITULO</div>co
+<div class="col-sm-4">TITULO</div>
 <!--Espacio en blanco-->
 <div class="col-sm-1"></div>
 <!--Espacio para el menu-->
